@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\TestNinja.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\TestNinja.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\TestNinja.Tests.csproj",
+        "projectName": "TestNinja.Tests",
+        "projectPath": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\TestNinja.Tests.csproj",
+        "packagesPath": "C:\\Users\\William.Sanchez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\William.Sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/iqmetrix/_packaging/iqmetrix/nuget/v2": {},
+          "https://www.powershellgallery.com/api/v2/": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja\\TestNinja.csproj": {
+                "projectPath": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja\\TestNinja.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.142, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja\\TestNinja.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja\\TestNinja.csproj",
+        "projectName": "TestNinja",
+        "projectPath": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja\\TestNinja.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

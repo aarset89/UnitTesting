@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNPrZqtD3D42Ksggywv80Q2Kw/OInZctvdT4WtC6u3hGXyMnWP+Yw1Gjz2PusI6IvtOvKWj1TB/QG8DPF4eswA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\William.Sanchez\\Desktop\\William2021\\Study\\UnitTesting\\TestNinja\\TestNinja.Tests\\TestNinja.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\moq\\4.7.142\\moq.4.7.142.nupkg.sha512",
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\William.Sanchez\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
